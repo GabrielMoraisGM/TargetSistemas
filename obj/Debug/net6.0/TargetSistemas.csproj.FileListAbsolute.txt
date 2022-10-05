@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\TargetSistemas.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\TargetSistemas.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\TargetSistemas.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\TargetSistemas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\TargetSistemas.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\refint\TargetSistemas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\ref\TargetSistemas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.CopyComplete
